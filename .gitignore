@@ -1,0 +1,9 @@
+*.lammps
+*.lammpstrj
+*.h5
+*.out
+*.mp4
+*.png
+*.npy
+__pycache__
+*.egg-info
