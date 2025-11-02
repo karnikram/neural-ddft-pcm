@@ -1,6 +1,8 @@
-### Learned Free-Energy Functionals from Pair-Correlation Matching for Dynamical Density Functional Theory
+## Learned Free-Energy Functionals from Pair-Correlation Matching for Dynamical Density Functional Theory
 
 [PR-E article](https://doi.org/10.1103/22fd-ykkb) | [Preprint](https://arxiv.org/abs/2505.09543) | [Data](10.5281/zenodo.17116150)
+
+![Breakthrough simulation](breakthrough_simulation.gif)
 
 DDFT and BD simulation code to reproduce the results in the PR-E article. Pre-computed simulation data is available on [Zenodo](10.5281/zenodo.17116150).
 
